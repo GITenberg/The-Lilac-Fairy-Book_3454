@@ -1,0 +1,38 @@
+_repo: The-Lilac-Fairy-Book_3454
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Folklore'
+- GITenberg
+tableOfContents: The Shifty Lad -- The False Prince and the True -- The Jogi's Punishment
+  -- The Heart of a Monkey -- The Fairy Nurse -- A Lost Paradise -- How Brave Walter
+  Hunted Wolves -- The Ring of the Waterfalls -- A French Puck -- The Three Crowns
+  -- The Story of a Very Bad Boy -- The Brown Bear of Norway -- Little Lasse -- 'Moti'
+  -- The Enchanted Deer -- A Fish Story -- The Wonderful Tune -- The Rich Brother
+  and the Poor Brother -- The One-Handed Girl -- The Bones of Djulung -- The Sea Ring's
+  Gift -- The Raspberry Worm -- The Stones of Plouhinec -- The Castle of Kerglas --
+  The Battle of the Birds -- The Lady of the Fountain -- The Four Gifts -- The Groac'h
+  of the Isle of Lok -- The Escape of the Mouse -- The Believing Husbands -- The Hoodie-Crow
+  -- The Brownie of the Lake -- The Winning of Olwen.
+title: The Lilac Fairy Book
+url: http://www.gutenberg.org/ebooks/3454
